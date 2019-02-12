@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_global"
+        android:title="Posición Global"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_search_category_default"/>
+
+    <item
+        android:id="@+id/action_transferencias"
+        android:title="Transferencias"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_search_category_default"/>
+
+    <item
+        android:id="@+id/action_ingresos"
+        android:title="Ingresos"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_search_category_default"/>
+
+    <item
+        android:id="@+id/action_promociones"
+        android:title="Promociones"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_search_category_default"/>
+
+    <item
+        android:id="@+id/action_cambiarContraseña"
+        android:title="Cambiar Contraseña"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_search_category_default"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Configuración"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_search_category_default"/>
+
+</menu>

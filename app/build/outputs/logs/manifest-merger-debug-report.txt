@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\afa8e3afff32e5e3001838d1319afeb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cdc43f6ccaae84dd9d4047aaab5d1a34\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9908478db9153c40de3d591363f6c6ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3397ca40deb9f6e9b71cdbe773118f91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\eb21f0bdde189474366cf76119b5526d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1d3ecda1e532f3df7cb65638af214d8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0833fba9b234eb05e1529566cab488f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\291f8f342668165a913d4b473081333e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c1c479e55047a0d0021468642567dd5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\eb7bebbe3482b9210fa40a2c0444d469\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a11ca4baf470c9f5b5974e596048f9ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb504e3adf8e038fcb989d59d6f31ecb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\caf44ce9637ef3a54c325e273bbf480f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9baafebbc19da0a001960dafb7c18790\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65cf220996cb7acfcff177dfa6a89bab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5322e3fa6be5168cf586ec3de9d8fb5d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\890ef7f9889a920c963d751aeb6a226d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c04014159bd0ac2cdaee366c4972e68b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1cae0b1ee785b1271e9794bd1496af9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1ff34ff5c7ef06362d1411ebabdac94e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1d3218573d729622cac4783ea5307b1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ac286c20e74bcc2c95152eb683ca4d97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\235ba835023a7904aea5e154bf683027\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6fd0428e5001d3118c2c57861e8e52d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d241079dcfeb8624e86f4b0960e2ad87\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7609492c1f7306e8b41d7f91d874f89b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5244ff9ce42471cf34f34679b7815bca\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cdc43f6ccaae84dd9d4047aaab5d1a34\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cdc43f6ccaae84dd9d4047aaab5d1a34\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5322e3fa6be5168cf586ec3de9d8fb5d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5322e3fa6be5168cf586ec3de9d8fb5d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\890ef7f9889a920c963d751aeb6a226d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\890ef7f9889a920c963d751aeb6a226d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5322e3fa6be5168cf586ec3de9d8fb5d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:9:9-56
+	android:icon
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.rubos.banco_ruben_osma.controlador.Preferencias
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:12:9-71
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:12:19-59
+activity#com.rubos.banco_ruben_osma.controlador.MainActivity
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:13:9-62
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:13:19-59
+activity#com.rubos.banco_ruben_osma.controlador.Welcome
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:14:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.rubos.banco_ruben_osma.controlador.Login
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:21:19-52
+meta-data#preloaded_fonts
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:23:9-25:57
+	android:resource
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:25:13-54
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:24:13-43
+activity#com.rubos.banco_ruben_osma.controlador.PosicionGlobal
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:27:9-64
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:27:19-61
+activity#com.rubos.banco_ruben_osma.controlador.Ingresos
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:28:19-55
+activity#com.rubos.banco_ruben_osma.controlador.Transferencias
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:29:9-64
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:29:19-61
+activity#com.rubos.banco_ruben_osma.controlador.Promociones
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:30:19-58
+activity#com.rubos.banco_ruben_osma.controlador.CambiarPassword
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:31:9-65
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:31:19-62
+activity#com.rubos.banco_ruben_osma.controlador.PosicionCuenta
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:32:19-61
+activity#com.rubos.banco_ruben_osma.controlador.CajerosActivity
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:33:9-34:46
+	android:theme
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:33:19-62
+activity#com.rubos.banco_ruben_osma.controlador.GestionCajerosActivity
+ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:35:9-36:46
+	android:theme
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml:35:19-69
+uses-sdk
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\afa8e3afff32e5e3001838d1319afeb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\afa8e3afff32e5e3001838d1319afeb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cdc43f6ccaae84dd9d4047aaab5d1a34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cdc43f6ccaae84dd9d4047aaab5d1a34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9908478db9153c40de3d591363f6c6ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9908478db9153c40de3d591363f6c6ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3397ca40deb9f6e9b71cdbe773118f91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3397ca40deb9f6e9b71cdbe773118f91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\eb21f0bdde189474366cf76119b5526d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\eb21f0bdde189474366cf76119b5526d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1d3ecda1e532f3df7cb65638af214d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1d3ecda1e532f3df7cb65638af214d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0833fba9b234eb05e1529566cab488f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0833fba9b234eb05e1529566cab488f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\291f8f342668165a913d4b473081333e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\291f8f342668165a913d4b473081333e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c1c479e55047a0d0021468642567dd5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c1c479e55047a0d0021468642567dd5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\eb7bebbe3482b9210fa40a2c0444d469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\eb7bebbe3482b9210fa40a2c0444d469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a11ca4baf470c9f5b5974e596048f9ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a11ca4baf470c9f5b5974e596048f9ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb504e3adf8e038fcb989d59d6f31ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb504e3adf8e038fcb989d59d6f31ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\caf44ce9637ef3a54c325e273bbf480f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\caf44ce9637ef3a54c325e273bbf480f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9baafebbc19da0a001960dafb7c18790\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9baafebbc19da0a001960dafb7c18790\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65cf220996cb7acfcff177dfa6a89bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\65cf220996cb7acfcff177dfa6a89bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5322e3fa6be5168cf586ec3de9d8fb5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5322e3fa6be5168cf586ec3de9d8fb5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\890ef7f9889a920c963d751aeb6a226d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\890ef7f9889a920c963d751aeb6a226d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c04014159bd0ac2cdaee366c4972e68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c04014159bd0ac2cdaee366c4972e68b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1cae0b1ee785b1271e9794bd1496af9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1cae0b1ee785b1271e9794bd1496af9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1ff34ff5c7ef06362d1411ebabdac94e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1ff34ff5c7ef06362d1411ebabdac94e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1d3218573d729622cac4783ea5307b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1d3218573d729622cac4783ea5307b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ac286c20e74bcc2c95152eb683ca4d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ac286c20e74bcc2c95152eb683ca4d97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\235ba835023a7904aea5e154bf683027\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\235ba835023a7904aea5e154bf683027\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6fd0428e5001d3118c2c57861e8e52d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6fd0428e5001d3118c2c57861e8e52d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d241079dcfeb8624e86f4b0960e2ad87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d241079dcfeb8624e86f4b0960e2ad87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7609492c1f7306e8b41d7f91d874f89b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7609492c1f7306e8b41d7f91d874f89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5244ff9ce42471cf34f34679b7815bca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ruben\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5244ff9ce42471cf34f34679b7815bca\AndroidManifest.xml:20:5-44
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mega\Clase\Android\Trimestre 2\banco_Ruben_Osma\app\src\main\AndroidManifest.xml

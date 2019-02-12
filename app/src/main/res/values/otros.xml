@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="pais">
+        <item>Español</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="codigopais">
+        <item>ESP</item>
+        <item>ENG</item>
+    </string-array>
+
+    <string-array name="origen">
+        <item>Local</item>
+        <item>Servicio Web</item>
+    </string-array>
+
+</resources>

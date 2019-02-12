@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Categoría 1">
+        <ListPreference
+            android:dialogTitle="@string/opt_TitleIdioma"
+            android:entries="@array/pais"
+            android:entryValues="@array/codigopais"
+            android:key="pais"
+            android:summary="@string/opt_SumIdioma"
+            android:title="@string/opt_titIdioma" />
+
+        <MultiSelectListPreference
+            android:dialogTitle="@string/opt_OrigenTitle"
+            android:entries="@array/origen"
+            android:entryValues="@array/origen"
+            android:key="origenDatos"
+            android:summary="@string/opt_OriSumma"
+            android:title="@string/opt_OriTit" />
+
+        <CheckBoxPreference
+            android:key="musica"
+            android:summary="@string/opt_MusicaSumm"
+            android:title="@string/opt_MusTit" />
+
+        <CheckBoxPreference
+            android:key="video"
+            android:summary="@string/opt_VideoSum"
+            android:title="@string/opt_VideoTit" />
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

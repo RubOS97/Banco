@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TODO">TODO</string>
+    <string name="aceptar">Accept</string>
+    <string name="app_name">Your Banc</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btn_login">Sing in</string>
+    <string name="count_dest">Destination count</string>
+    <string name="count_or">Origin count</string>
+    <string name="label_direcion">Direccion</string>
+    <string name="label_latitud">Latitud</string>
+    <string name="label_longitud">Longitud</string>
+    <string name="label_zoom">Zoom</string>
+    <string name="log_dni">DNI</string>
+    <string name="log_exit">Out</string>
+    <string name="log_password">Password</string>
+    <string name="log_password2">New password</string>
+    <string name="log_password3">password 2</string>
+    <string name="main_cajeros">Give me money</string>
+    <string name="main_contraseña">Change password</string>
+    <string name="main_global">Global Possition</string>
+    <string name="main_ingresos">Ingresos</string>
+    <string name="main_promociones">Promotions</string>
+    <string name="main_transferencias">Transferencces</string>
+    <string name="opt_MusTit">Music</string>
+    <string name="opt_MusicaSumm">Play Music</string>
+    <string name="opt_OriSumma">Origin of data</string>
+    <string name="opt_OriTit">Origin</string>
+    <string name="opt_OrigenTitle">Origin of data</string>
+    <string name="opt_SumIdioma">Lenguage of app</string>
+    <string name="opt_TitleIdioma">Lenguage</string>
+    <string name="opt_VideoSum">Play Video</string>
+    <string name="opt_VideoTit">Video Welcome</string>
+    <string name="opt_titIdioma">Lenguage</string>
+    <string name="pass_1">After Password</string>
+    <string name="pass_2">New Password</string>
+    <string name="pass_titulo">Change Password</string>
+    <string name="welcome">Good Morning</string>
+    <string name="welcome_main">Welcome User</string>
+</resources>

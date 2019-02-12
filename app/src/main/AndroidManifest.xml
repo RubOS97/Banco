@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rubos.banco_ruben_osma">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".controlador.Preferencias"></activity>
+        <activity android:name=".controlador.MainActivity" />
+        <activity android:name=".controlador.Welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".controlador.Login" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".controlador.PosicionGlobal" />
+        <activity android:name=".controlador.Ingresos" />
+        <activity android:name=".controlador.Transferencias" />
+        <activity android:name=".controlador.Promociones" />
+        <activity android:name=".controlador.CambiarPassword" />
+        <activity android:name=".controlador.PosicionCuenta" />
+        <activity android:name=".controlador.CajerosActivity"
+            android:theme="@style/AppTheme"/>
+        <activity android:name=".controlador.GestionCajerosActivity"
+            android:theme="@style/AppTheme"/>
+    </application>
+
+</manifest>

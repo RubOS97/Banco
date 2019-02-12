@@ -1,0 +1,48 @@
+<resources>
+    <string name="TODO">TODO</string>
+
+    <string name="app_name">Tu Banco</string>
+    <string name="welcome">Buenos días</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="log_dni">DNI</string>
+    <string name="log_password">Contraseña</string>
+    <string name="log_password2">Nueva contraseña</string>
+    <string name="log_password3">Repite la contraseña</string>
+    <string name="log_exit">Salir</string>
+    <string name="welcome_main">Bienvenido Usuario</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="main_global">Posición global</string>
+    <string name="main_ingresos">Ingresos</string>
+    <string name="main_transferencias">Transferencias</string>
+    <string name="main_promociones">Promociones</string>
+    <string name="main_cajeros">Cajeros cercanos</string>
+    <string name="main_contraseña">Cambiar contraseña</string>
+
+    <string name="pass_titulo">Cambiar contraseña</string>
+    <string name="pass_1">Contraseña anterior</string>
+    <string name="pass_2">Contraseña nueva</string>
+
+    <string name="count_or">Cuenta origen</string>
+    <string name="count_dest">Cuenta destino</string>
+    <string name="opt_TitleIdioma">Idioma</string>
+    <string name="opt_SumIdioma">Idioma de la aplicación</string>
+    <string name="opt_titIdioma">Idioma</string>
+    <string name="opt_OrigenTitle">Origen de datos</string>
+    <string name="opt_OriSumma">Origen de los datos</string>
+    <string name="opt_OriTit">Origen</string>
+    <string name="opt_MusicaSumm">Escuchar la música mientras se ejecuta la aplicación</string>
+    <string name="opt_MusTit">Música</string>
+    <string name="opt_VideoSum">Mostrará un video de bienvenida</string>
+    <string name="opt_VideoTit">Video Bienvenida</string>
+
+    <string name="btnCancel">Cancelar</string>
+    <string name="label_direcion">Direccion</string>
+    <string name="label_latitud">Latitud</string>
+    <string name="label_longitud">Longitud</string>
+    <string name="label_zoom">Zoom</string>
+    <string name="btnGuardar">Guardar</string>
+
+
+
+</resources>
